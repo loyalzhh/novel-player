@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 数据库文件
+*.db
+
+# 临时文件
+*.mp3
+*.wav
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+
+# Claude
+.claude/
